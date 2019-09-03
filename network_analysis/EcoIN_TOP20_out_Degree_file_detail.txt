@@ -1,0 +1,45 @@
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	50	ppi
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	1	cpi
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	2122	sigma_factor_regulation
+Glycerol	glyc[c]	4	reaction_met
+Glycerol	glyc[c]	1270	cpi
+magnesium	mg2[c]	1	Signal_transduction
+magnesium	mg2[c]	1193	cpi
+Chloride	cl[c]	1187	cpi
+Acetyl phosphate	actp[c]	2	reaction_met
+Acetyl phosphate	actp[c]	6	cpi
+Acetyl phosphate	actp[c]	1177	Protein_modification
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	107	ppi
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	2	cpi
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	1019	sigma_factor_regulation
+Sodium	na1[c]	3	reaction_met
+Sodium	na1[c]	892	cpi
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	704	Protein_modification
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	118	ppi
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	9	cpi
+pka , protein lysine acetyltransferase	b2584	70	ppi
+pka , protein lysine acetyltransferase	b2584	13	cpi
+pka , protein lysine acetyltransferase	b2584	734	Protein_modification
+Zinc	zn2[c]	1	Signal_transduction
+Zinc	zn2[c]	815	cpi
+Acetyl-CoA	accoa[c]	30	reaction_met
+Acetyl-CoA	accoa[c]	41	cpi
+Acetyl-CoA	accoa[c]	741	Protein_modification
+dnaK , chaperone Hsp70, with co-chaperone DnaJ	b0014	741	ppi
+dnaK , chaperone Hsp70, with co-chaperone DnaJ	b0014	10	cpi
+aceK , isocitrate dehydrogenase kinase/phosphatase	b4016	739	ppi
+srkA , Cpx stress response Thr/Ser protein kinase; MazF antagonist protein	b3859	738	ppi
+Calcium	ca2[c]	710	cpi
+Succinyl-CoA	succoa[c]	5	reaction_met
+Succinyl-CoA	succoa[c]	3	cpi
+Succinyl-CoA	succoa[c]	668	Protein_modification
+rpoE , RNA polymerase sigma E factor	b2573	57	ppi
+rpoE , RNA polymerase sigma E factor	b2573	2	cpi
+rpoE , RNA polymerase sigma E factor	b2573	610	sigma_factor_regulation
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	123	ppi
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	520	tf_gene
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	16	cpi
+groL , Cpn60 chaperonin GroEL, large subunit of GroESL	b4143	626	ppi
+groL , Cpn60 chaperonin GroEL, large subunit of GroESL	b4143	7	cpi
+rpoN , RNA polymerase, sigma 54 (sigma N) factor	b3202	26	ppi
+rpoN , RNA polymerase, sigma 54 (sigma N) factor	b3202	484	sigma_factor_regulation

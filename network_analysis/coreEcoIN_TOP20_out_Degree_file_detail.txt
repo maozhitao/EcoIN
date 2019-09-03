@@ -1,0 +1,27 @@
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	520	tf_gene
+magnesium	mg2[c]	1	Signal_transduction
+magnesium	mg2[c]	428	cpi
+Acetyl phosphate	actp[c]	2	reaction_met
+Acetyl phosphate	actp[c]	3	cpi
+Acetyl phosphate	actp[c]	408	Protein_modification
+fnr , oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor	b1334	310	tf_gene
+Zinc	zn2[c]	1	Signal_transduction
+Zinc	zn2[c]	289	cpi
+Mn2+	mn2[c]	283	cpi
+ompF , outer membrane porin 1a (Ia;b;F)	b0929	271	reaction_gene
+ompC , outer membrane porin protein C	b2215	271	reaction_gene
+ompN , outer membrane pore protein N, non-specific	b1377	270	reaction_gene
+phoE , outer membrane phosphoporin protein E	b0241	270	reaction_gene
+fis , global DNA-binding transcriptional dual regulator	b3261	242	tf_gene
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	224	sigma_factor_regulation
+ihfA , integration host factor (IHF), DNA-binding protein, alpha subunit	b1712	221	tf_gene
+ihfB , integration host factor (IHF), DNA-binding protein, beta subunit	b0912	221	tf_gene
+Co2+	cobalt2[c]	203	cpi
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	196	Protein_modification
+hns , global DNA-binding transcriptional dual regulator H-NS	b1237	1	ppi
+hns , global DNA-binding transcriptional dual regulator H-NS	b1237	189	tf_gene
+arcA , response regulator in two-component regulatory system with ArcB or CpxA	b4401	180	tf_gene
+Acetyl-CoA	accoa[c]	30	reaction_met
+Acetyl-CoA	accoa[c]	20	cpi
+Acetyl-CoA	accoa[c]	124	Protein_modification
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	169	sigma_factor_regulation

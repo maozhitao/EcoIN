@@ -1,0 +1,20 @@
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	crp , cAMP-activated global transcription factor, mediator of catabolite repression	7	520	527
+magnesium	mg2[c]	magnesium	0	429	429
+Acetyl phosphate	actp[c]	Acetyl phosphate	2	413	415
+fnr , oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor	b1334	fnr , oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor	7	310	317
+Zinc	zn2[c]	Zinc	0	290	290
+Mn2+	mn2[c]	Mn2+	0	283	283
+ompF , outer membrane porin 1a (Ia;b;F)	b0929	ompF , outer membrane porin 1a (Ia;b;F)	12	271	283
+ompC , outer membrane porin protein C	b2215	ompC , outer membrane porin protein C	10	271	281
+ompN , outer membrane pore protein N, non-specific	b1377	ompN , outer membrane pore protein N, non-specific	2	270	272
+phoE , outer membrane phosphoporin protein E	b0241	phoE , outer membrane phosphoporin protein E	2	270	272
+fis , global DNA-binding transcriptional dual regulator	b3261	fis , global DNA-binding transcriptional dual regulator	5	242	247
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	rpoS , RNA polymerase, sigma S (sigma 38) factor	10	224	234
+ihfA , integration host factor (IHF), DNA-binding protein, alpha subunit	b1712	ihfA , integration host factor (IHF), DNA-binding protein, alpha subunit	8	221	229
+ihfB , integration host factor (IHF), DNA-binding protein, beta subunit	b0912	ihfB , integration host factor (IHF), DNA-binding protein, beta subunit	6	221	227
+Co2+	cobalt2[c]	Co2+	0	203	203
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	cobB , deacetylase of acs and cheY, chemotaxis regulator	0	196	196
+hns , global DNA-binding transcriptional dual regulator H-NS	b1237	hns , global DNA-binding transcriptional dual regulator H-NS	10	190	200
+arcA , response regulator in two-component regulatory system with ArcB or CpxA	b4401	arcA , response regulator in two-component regulatory system with ArcB or CpxA	3	180	183
+Acetyl-CoA	accoa[c]	Acetyl-CoA	20	174	194
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	rpoH , RNA polymerase, sigma 32 (sigma H) factor	8	169	177

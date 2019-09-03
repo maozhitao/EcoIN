@@ -1,0 +1,20 @@
+b3357	crp , cAMP-activated global transcription factor, mediator of catabolite repression	7	520	527
+mg2[c]	magnesium	0	429	429
+actp[c]	Acetyl phosphate	2	413	415
+b1334	fnr , oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor	7	310	317
+zn2[c]	Zinc	0	290	290
+mn2[c]	Mn2+	0	283	283
+b0929	ompF , outer membrane porin 1a (Ia;b;F)	12	271	283
+b2215	ompC , outer membrane porin protein C	10	271	281
+b1377	ompN , outer membrane pore protein N, non-specific	2	270	272
+b0241	phoE , outer membrane phosphoporin protein E	2	270	272
+b3261	fis , global DNA-binding transcriptional dual regulator	5	242	247
+b2741	rpoS , RNA polymerase, sigma S (sigma 38) factor	10	224	234
+b1712	ihfA , integration host factor (IHF), DNA-binding protein, alpha subunit	8	221	229
+b0912	ihfB , integration host factor (IHF), DNA-binding protein, beta subunit	6	221	227
+cobalt2[c]	Co2+	0	203	203
+b1120	cobB , deacetylase of acs and cheY, chemotaxis regulator	0	196	196
+b1237	hns , global DNA-binding transcriptional dual regulator H-NS	10	190	200
+b4401	arcA , response regulator in two-component regulatory system with ArcB or CpxA	3	180	183
+accoa[c]	Acetyl-CoA	20	174	194
+b3461	rpoH , RNA polymerase, sigma 32 (sigma H) factor	8	169	177

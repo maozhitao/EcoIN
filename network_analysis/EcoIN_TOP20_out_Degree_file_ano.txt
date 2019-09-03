@@ -1,0 +1,20 @@
+rpoS , RNA polymerase, sigma S (sigma 38) factor	b2741	rpoS , RNA polymerase, sigma S (sigma 38) factor	66	2173	2239
+Glycerol	glyc[c]	Glycerol	1265	1274	2539
+magnesium	mg2[c]	magnesium	766	1194	1960
+Chloride	cl[c]	Chloride	1165	1187	2352
+Acetyl phosphate	actp[c]	Acetyl phosphate	5	1185	1190
+rpoH , RNA polymerase, sigma 32 (sigma H) factor	b3461	rpoH , RNA polymerase, sigma 32 (sigma H) factor	106	1128	1234
+Sodium	na1[c]	Sodium	858	895	1753
+cobB , deacetylase of acs and cheY, chemotaxis regulator	b1120	cobB , deacetylase of acs and cheY, chemotaxis regulator	127	831	958
+pka , protein lysine acetyltransferase	b2584	pka , protein lysine acetyltransferase	87	817	904
+Zinc	zn2[c]	Zinc	526	816	1342
+Acetyl-CoA	accoa[c]	Acetyl-CoA	41	812	853
+dnaK , chaperone Hsp70, with co-chaperone DnaJ	b0014	dnaK , chaperone Hsp70, with co-chaperone DnaJ	762	751	1513
+aceK , isocitrate dehydrogenase kinase/phosphatase	b4016	aceK , isocitrate dehydrogenase kinase/phosphatase	39	739	778
+srkA , Cpx stress response Thr/Ser protein kinase; MazF antagonist protein	b3859	srkA , Cpx stress response Thr/Ser protein kinase; MazF antagonist protein	11	738	749
+Calcium	ca2[c]	Calcium	588	710	1298
+Succinyl-CoA	succoa[c]	Succinyl-CoA	8	676	684
+rpoE , RNA polymerase sigma E factor	b2573	rpoE , RNA polymerase sigma E factor	64	669	733
+crp , cAMP-activated global transcription factor, mediator of catabolite repression	b3357	crp , cAMP-activated global transcription factor, mediator of catabolite repression	184	659	843
+groL , Cpn60 chaperonin GroEL, large subunit of GroESL	b4143	groL , Cpn60 chaperonin GroEL, large subunit of GroESL	642	633	1275
+rpoN , RNA polymerase, sigma 54 (sigma N) factor	b3202	rpoN , RNA polymerase, sigma 54 (sigma N) factor	28	510	538
