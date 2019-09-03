@@ -1,0 +1,1 @@
+pyr[c][Pyruvate](cpi_Activator;) --> b2530[iscS , cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent](reaction_gene_Catalysis;) --> ICYSDS[L-Cysteine + IscS sulfur acceptor protein  -> L-Alanine + IscS with bound sulfur ]

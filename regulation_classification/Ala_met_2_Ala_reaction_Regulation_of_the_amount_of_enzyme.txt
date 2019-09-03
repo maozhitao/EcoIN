@@ -1,0 +1,1 @@
+val-L[c][L-Valine](leader_peptide_Binding;) --> b3766[ilvL , ilvG operon leader peptide](leader_peptide_Attenuation;) --> b3770[ilvE , branched-chain amino acid aminotransferase](reaction_gene_Catalysis;) --> VALTA[2-Oxoglutarate + L-Valine  <=> 3-Methyl-2-oxobutanoate + L-Glutamate ]

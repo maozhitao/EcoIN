@@ -1,0 +1,1 @@
+asn-L[c][L-Asparagine](cpi_Inhibitor;) --> b3743[asnC , transcriptional activator of asnA; autorepressor](tf_gene_Activator;) --> b3744[asnA , asparagine synthetase A](reaction_gene_Catalysis;) --> ASNS2[L-Aspartate + ATP + Ammonium  -> AMP + L-Asparagine + H+ + Diphosphate ]

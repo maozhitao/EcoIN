@@ -1,0 +1,5 @@
+his-L[c][L-Histidine](cpi_Inhibitor;) --> b2022[hisB , histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase](reaction_gene_Catalysis;) --> IGPDH[D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate  -> H2O + 3-(Imidazol-4-yl)-2-oxopropyl phosphate ]
+histd[c][L-Histidinol](cpi_Inhibitor;) --> b2022[hisB , histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase](reaction_gene_Catalysis;) --> HISTP[H2O + L-Histidinol phosphate  -> L-Histidinol + Phosphate ]
+histd[c][L-Histidinol](cpi_Inhibitor;) --> b2022[hisB , histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase](reaction_gene_Catalysis;) --> IGPDH[D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate  -> H2O + 3-(Imidazol-4-yl)-2-oxopropyl phosphate ]
+his-L[c][L-Histidine](cpi_Inhibitor;) --> b2022[hisB , histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase](reaction_gene_Catalysis;) --> HISTP[H2O + L-Histidinol phosphate  -> L-Histidinol + Phosphate ]
+his-L[c][L-Histidine](cpi_Inhibitor;) --> b2019[hisG , ATP phosphoribosyltransferase](reaction_gene_Catalysis;) --> ATPPRT[ATP + 5-Phospho-alpha-D-ribose 1-diphosphate  -> Diphosphate + 1-(5-Phosphoribosyl)-ATP ]
