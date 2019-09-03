@@ -1,0 +1,7 @@
+ser-L[c]
+pser-L[c]
+3php[c]
+3pg[c]
+gly[c]
+acser[c]
+cys-L[c]

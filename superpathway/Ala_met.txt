@@ -1,0 +1,5 @@
+cys-L[c]
+ala-L[c]
+pyr[c]
+val-L[c]
+3mob[c]

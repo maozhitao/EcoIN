@@ -1,0 +1,3 @@
+glu-L[c]
+asp-L[c]
+asn-L[c]
