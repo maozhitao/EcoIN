@@ -1,0 +1,5 @@
+asp-L[c][L-Aspartate](cpi_Inhibitor;) --> b0828[iaaA , Isoaspartyl peptidase ](reaction_gene_Catalysis;) --> ASNN[L-Asparagine + H2O  -> L-Aspartate + Ammonium ]
+asn-L[c][L-Asparagine](cpi_Inhibitor;) --> b3744[asnA , asparagine synthetase A](reaction_gene_Catalysis;) --> ASNS2[L-Aspartate + ATP + Ammonium  -> AMP + L-Asparagine + H+ + Diphosphate ]
+asn-L[c][L-Asparagine](cpi_Inhibitor;) --> b3743[asnC , transcriptional activator of asnA; autorepressor](tf_gene_Activator;) --> b3744[asnA , asparagine synthetase A](reaction_gene_Catalysis;) --> ASNS2[L-Aspartate + ATP + Ammonium  -> AMP + L-Asparagine + H+ + Diphosphate ]
+asn-L[c][L-Asparagine](cpi_Dual;) --> b1767[ansA , cytoplasmic L-asparaginase 1](reaction_gene_Catalysis;) --> ASNN[L-Asparagine + H2O  -> L-Aspartate + Ammonium ]
+asp-L[c][L-Aspartate](cpi_Inhibitor;) --> b1767[ansA , cytoplasmic L-asparaginase 1](reaction_gene_Catalysis;) --> ASNN[L-Asparagine + H2O  -> L-Aspartate + Ammonium ]
